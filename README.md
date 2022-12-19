@@ -9,4 +9,8 @@
 - 🤔 I’m looking for help with Backend
 - 💬 Ask me about Computer Architecture
 - 📫 How to reach me: https://www.linkedin.com/in/dinesh-kumaar-391022234/
-- ⚡ Fun fact: LaZy Developer
+
+⚒️ Languages and Tools:
+<div>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+</div>
