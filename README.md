@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Dinesh ,  A Frontend developer</div>  
+### <div align="center">I'm Dinesh ,  A web developer</div>  
   
 
 - 🔭 I’m currently studying at TCE  
   
 
-- 🌱 I’m currently learning Node.js and PostgreSQL  
+- 🌱 I’m currently learning Node.js, PostgreSQL and Computer vision  
   
 
 - ❓ Ask me about anything related to Computer Architecture and Frontend stuff  
