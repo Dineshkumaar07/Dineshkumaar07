@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dinesh ,  A web developer</div>  
+### <div align="center">I'm Dinesh ,  A MERN Developer</div>  
   
 
 - 🔭 I’m currently studying at TCE  
