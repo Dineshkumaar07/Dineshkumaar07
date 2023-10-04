@@ -9,10 +9,10 @@
 - 🔭 I’m currently studying at TCE  
   
 
-- 🌱 I’m currently learning Node.js, PostgreSQL and Computer vision  
+- 🌱 I’m currently learning Blockchain Development and Mixed Reality.
   
 
-- ❓ Ask me about anything related to Computer Architecture and Frontend stuff  
+- ❓ Ask me about anything related to Computer Architecture and MERN stuff  
   
 
 - ⚡Good Things Take Time so Keep Going...  
