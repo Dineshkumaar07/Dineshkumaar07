@@ -8,14 +8,11 @@
 
 - 🔭 I’m currently studying at TCE  
   
-
-- 🌱 I’m currently learning Blockchain Development and Mixed Reality.
   
-
 - ❓ Ask me about anything related to Computer Architecture and MERN stuff  
   
 
-- ⚡Good Things Take Time so Keep Going...  
+- ⚡Good Things Take Time,Keep Grinding...  
   
 
 <br/>  
