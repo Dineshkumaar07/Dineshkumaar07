@@ -60,6 +60,6 @@ I'm a Full Stack Web Developer creating robust and scalable web applications. I 
 
 ### 📫 Contact Me
 
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/dinesh-kumaar)
-- Instagram: [instagram.com/yourusername](https://instagram.com/dinesh____ms)
-- Email: [youremail@example.com](mailto:dineshkumaar2003@gmail.com)
+- LinkedIn: [linkedin.com/in/dinesh-kumaar](https://linkedin.com/in/dinesh-kumaar)
+- Instagram: [instagram.com/dinesh____ms](https://instagram.com/dinesh____ms)
+- Email: [dineshkumaar2003@gmail.com](mailto:dineshkumaar2003@gmail.com)
