@@ -57,8 +57,8 @@ I'm a Full Stack Web Developer creating robust and scalable web applications. I 
 </p>
 
 ---
+### 🏆 GitHub Trophies
 <p align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dineshkumaar07&theme=onedark&row=2&column=4)](https://github.com/Dineshkumaar07/github-profile-trophy)
 </p>
 ### 📫 Contact Me
